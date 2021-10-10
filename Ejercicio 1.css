@@ -1,0 +1,44 @@
+.contenedor {
+    background-color:white;
+    width: 600px;
+    height: 600px;
+    border: solid 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin: auto;
+
+}
+.item1 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    
+
+}
+.item2 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    font-weight: bold;
+    
+}
+.item3 {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+}
